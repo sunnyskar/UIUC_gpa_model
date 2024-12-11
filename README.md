@@ -8,7 +8,7 @@
 **The problem:**  
 As part of this project, we are trying to build a tool that allows the university to determine which courses require more recruitment/funding and allows students to determine which classes they might want to take or avoid. This is done by using historical data found in [The University of Illinois’ GPA Dataset](https://github.com/wadefagen/datasets/tree/master/gpa) for each course to determine what the grade distribution in upcoming semesters would be.
 
-**Presentation:** 
+**Presentation:**  
 Our video presentation for this project can be found on YouTube: https://youtu.be/Ia9wbPTmAi4?si=gDMfTWoV7knQk4UT
 The slides for the presentation are available at: https://docs.google.com/presentation/d/1MVYFvbp6G1otXeWnBDZpgOUf2dN-XD4n/edit?usp=sharing&ouid=108914692352719546683&rtpof=true&sd=true 
 
